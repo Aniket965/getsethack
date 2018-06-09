@@ -1,4 +1,6 @@
 ## GetSetHack
+> Get Ready to expirence the best
 
-## Intrested in Sponsoring
+----
+## Interested in Sponsoring
 - [CONTACT](http://aniket965.github.io)
