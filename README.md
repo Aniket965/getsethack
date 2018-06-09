@@ -1,6 +1,6 @@
 ## GetSetHack
-> Get Ready to expirence the best
+> Get Ready to EXPERIENCE the best
 
-----
+
 ## Interested in Sponsoring
-- [CONTACT](http://aniket965.github.io)
+> [CONTACT](http://aniket965.github.io)

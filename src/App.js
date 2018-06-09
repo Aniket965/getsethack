@@ -15,6 +15,7 @@ class App extends Component {
         <div className="landing-content">
           <h1>HACKOVERFLOW 🍺</h1>
           <h3>⏳ AUG 2018, BVCOE NEW DELHI</h3>
+          <h5>“GET READY TO EXPERIENCE THE BEST”</h5>
         </div>
         <div className="register">
           <div className="register-button">REGISTER </div>
